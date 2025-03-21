@@ -1,0 +1,1 @@
+requirements = python3,kivy,git+https://github.com/kivymd/KivyMD.git@<commit_or_branch>
